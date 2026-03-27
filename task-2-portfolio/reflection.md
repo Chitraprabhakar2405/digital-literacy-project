@@ -1,9 +1,10 @@
 # Task 2 – Student Digital Portfolio
 
 ## Platforms Set Up
-1. **GitHub** – github.com
-2. **LinkedIn** – linkedin.com
-3. **Kaggle** – kaggle.com
+1. **GitHub** : https://github.com/chitraprabhakar2405
+2. **LinkedIn** : https://www.linkedin.com/in/chitra-prabhakar
+3. **Kaggle** : https://www.kaggle.com/chitraprabhakar 
+ 
 
 ## What Each Platform Is Used For
 
@@ -23,4 +24,5 @@ On Kaggle, I created an account and explored the platform's beginner datasets. I
 Over the next four years, I plan to use GitHub to host all my college projects, LinkedIn to connect with alumni and apply for internships, and Kaggle to build a data science portfolio by third year.
 
 ## Screenshots
+
 
